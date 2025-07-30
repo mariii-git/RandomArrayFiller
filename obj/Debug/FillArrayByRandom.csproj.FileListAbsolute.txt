@@ -1,0 +1,7 @@
+J:\New folder\FillArrayByRandom\FillArrayByRandom\bin\Debug\FillArrayByRandom.exe.config
+J:\New folder\FillArrayByRandom\FillArrayByRandom\bin\Debug\FillArrayByRandom.exe
+J:\New folder\FillArrayByRandom\FillArrayByRandom\bin\Debug\FillArrayByRandom.pdb
+J:\New folder\FillArrayByRandom\FillArrayByRandom\obj\Debug\FillArrayByRandom.csproj.AssemblyReference.cache
+J:\New folder\FillArrayByRandom\FillArrayByRandom\obj\Debug\FillArrayByRandom.csproj.CoreCompileInputs.cache
+J:\New folder\FillArrayByRandom\FillArrayByRandom\obj\Debug\FillArrayByRandom.exe
+J:\New folder\FillArrayByRandom\FillArrayByRandom\obj\Debug\FillArrayByRandom.pdb
